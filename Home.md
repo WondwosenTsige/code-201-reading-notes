@@ -2,32 +2,32 @@
 
 [Home](https://wondwosentsige.github.io/code-201-reading-notes/Home)
 
-[class o1 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-01)
+[class 01 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-01)
 
-[class o2 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-02)
+[class 02 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-02)
 
-[class o3 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-03)
+[class 03 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-03)
 
-[class o4 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-04)
+[class 04 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-04)
 
-[class o5 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-05)
+[class 05 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-05)
 
-[class o6 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-06)
+[class 06 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-06)
 
-[class o7 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-07)
+[class 07 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-07)
 
-[class o8 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-08)
+[class 08 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-08)
 
-[class o1 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-09)
+[class 09 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-09)
 
-[class o1 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-10)
+[class 10 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-10)
 
-[class o1 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-11)
+[class 11 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-11)
 
-[class o1 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-12)
+[class 12 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-12)
 
-[class o1 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-13)
+[class 13 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-13)
 
-[class o1 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-14)
+[class 14 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-14)
 
-[class o1 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-15)
+[class 15 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-15)
