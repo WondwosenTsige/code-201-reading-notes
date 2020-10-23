@@ -1,6 +1,6 @@
 ## Class 13 reading notes
 
-[Home](https://wondwosentsige.github.io/code-201-reading-notes)
+[Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes/Home)
 
 
 
