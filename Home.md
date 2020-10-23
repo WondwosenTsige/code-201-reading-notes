@@ -1,6 +1,6 @@
 # Code-201 Reading Notes
 
-## [Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes)
+## Table of Contents
 
 [class 01 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-01)
 
