@@ -1,7 +1,5 @@
 # Code 201 reading notes
 
-[# Code 201 reading notes](https://wondwosentsige.github.io/code-201-reading-notes/Home)
-
 [class 01 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-01)
 
 [class 02 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-02)
