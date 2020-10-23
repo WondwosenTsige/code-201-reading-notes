@@ -1,6 +1,6 @@
 ## Class 03 reading notes
 
-[Home](https://wondwosentsige.github.io/code-201-reading-notes.md)
+[Home](https://wondwosentsige.github.io/code-201-reading-notes./)
 
 
 
