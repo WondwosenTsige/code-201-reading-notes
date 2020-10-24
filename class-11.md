@@ -1,6 +1,8 @@
+
+### [Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes/Home)
+
 ## Class 11 reading notes
 
-## [Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes/Home)
 
 
 
