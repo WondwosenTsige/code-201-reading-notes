@@ -74,8 +74,13 @@
     - To explain the purpose of this <span> element
     - So that CSS styles can be applied to elements that have specific values for these attributes
 
-- 
+- There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
 
+- Therefore, if you want these characters to appear on your page you need to use what are termed __"escape" characters__ (*also known as escape codes or entity references*). For example, to write a left angled bracket, you can use either &lt; or &#60;. For an ampersand, you can use either &amp; or &#38;.
+
+- You can visit the following website for a complete list of escape characters <a href="https://www.freeformatter.com/html-entities.html">Visit FREEFORMATTER.com!</a>
+
+- 
 
 
 
