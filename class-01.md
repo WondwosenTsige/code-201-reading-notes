@@ -33,16 +33,48 @@
 
 - In the example below, an attribute called *lang* is used to indicate the language used in this element. The value of this attribute on this page specifies it is in "US English".
 
-    - <p lang="en-us">Paragraph in English</p>
+    - &ltp lang="en-us">Paragraph in English &gtp
 
+### Extra Markup
 
+- Because there have been several versions of HTML, each web page should begin with a __DOCTYPE__ declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).
 
+- If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
+    
+    - <!-- comment goes here -->
 
+- Every HTML element can carry the __id attribute__. *It is used to uniquely identify that element from other elements on the page.* Its value should start with a letter or an underscore (not a number or any other character). It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
 
+- The id attribute is known as __a global attribute__ because it can be used on any element.
 
+- Every HTML element can also carry __a class attribute__. *Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.* For example, you might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, or you might want to differentiate between links that point to other pages on your own site and links that point to external sites. To do this you can use the class attribute. Its value should describe the class it belongs to.
 
+- By default, using these attributes does not affect the presentation of an element. It will only change their appearance if there is a CSS rule that indicates it should be displayed differently.
 
+- Some elements will always appear to start on a new line in the browser window. These are known as __block level elements__. Examples of block elements are <h1>, <p>, <ul>, and <li>.
 
+- Some elements will always appear to continue on the same line as their neighbouring elements. These are known as __inline elements__. Examples of inline elements are <a>, <b>, <em>, and <img>.
+
+- The __<div>__ *element allows you to group a set of elements together in one block-level box*. For example, you might createa <div> element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a <div> element to contain comments from visitors.
+
+- In a browser, the contents of the <div> element will start on a new line, but other than this it will make no difference to the presentation of the page.
+
+- Using an id or class attribute on the <div> element, however, means that you can create CSS style rules to indicate how much space the <div> element should occupy on the screen and change the appearance of all the elements contained within it. It can also make it easier to follow your code if you have used <div> elements to hold each section of the page.
+
+- Since there may be several other elements inside a <div> element, it can be helpful to add a comment after the closing </div> tag.
+
+- The __<span>__ *element acts like an inline equivalent of the <div> element*. It is used to either:
+    1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
+    2. Contain a number of inline elements
+
+- The most common reason why people use <span> elements is so that they can control the appearance of the content of these elements using CSS.
+
+- You will usually see that a class or id attribute is used with <span> elements:
+
+    - To explain the purpose of this <span> element
+    - So that CSS styles can be applied to elements that have specific values for these attributes
+
+- 
 
 
 
