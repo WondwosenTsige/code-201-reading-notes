@@ -63,7 +63,7 @@
 
 - Since there may be several other elements inside a <div> element, it can be helpful to add a comment after the closing </div> tag.
 
-- The __&ltspan&gt__ *element acts like an inline equivalent of the <div> element*. It is used to either:
+- The __&lt;span&gt;__ *element acts like an inline equivalent of the <div> element*. It is used to either:
     1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
     2. Contain a number of inline elements
 
