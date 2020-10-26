@@ -33,7 +33,7 @@
 
 - In the example below, an attribute called *lang* is used to indicate the language used in this element. The value of this attribute on this page specifies it is in "US English".
 
-    - &ltp lang="en-us">Paragraph in English &gtp
+    - <p lang="en-us">Paragraph in English</p>
 
 ### Extra Markup
 
