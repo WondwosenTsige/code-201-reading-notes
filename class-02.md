@@ -18,9 +18,9 @@
 
 - By enclosing words in the tags <i> and </i> we can make characters appear italic.
 
-- The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 2<sup>2</sup>.
+- The __sup__ element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 2<sup>2</sup>.
 
-- The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H<sub>2</sub>0.
+- The __sub__ element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H<sub>2</sub>0.
 
 - In order to make code easier to read, web page authors often add extra spaces or start some elements on new lines. When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as <b>white space collapsing</b>.
 
@@ -30,7 +30,7 @@
 
 - There are a few elements that do not have any words between an opening and closing tag. They are known as __empty elements__ and they are written differently.
 
-- 
+
 
 
 
