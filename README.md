@@ -1,7 +1,14 @@
 
-# Code-201 Reading Notes
+# _Code-201 Reading Notes_
 
-## Table of Contents
+- This is where I put all the readings from my code-201 class.
+- I would like to thank
+    1. James Gerstenberger 
+        - who helped me on fixing issues on this page and
+    2. Rosalun Johnson 
+        - for reviewing my job and commenting things that needs to be fixed 
+
+## **Table of Contents**
 
 [class 01 reading](class-01.md)
 
