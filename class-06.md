@@ -1,5 +1,5 @@
 
-## [Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes/Home)
+### [Table of Contents](https://wondwosentsige.github.io/code-201-reading-notes/Home)
 
 ## Class 06 reading notes
 
@@ -27,7 +27,9 @@
 - The other choice is to become better at understanding problem domains.  As developers, we tend to think that sitting down and talking to customers or business people who know about the problem domain is a waste of time. *It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it.*  Best to resist the temptation to “not waste anymore time talking” and make sure you understand a problem inside and out before you try and solve it with code.  *It is much more expensive and time consuming to do things over than it is to do them right the first time.*
 
 - refrence: - "Understanding The Problem Domain Is The Hardest Part Of Programming" by John Sonmez
-https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming
+
+<a href="https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming
+">by John Sonmez</a>
 
 ### Object Literals
 
