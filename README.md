@@ -20,7 +20,7 @@
 
 [class 05 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-05)
 
-[class 06 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-06)
+[class 06 reading](class-06.md)
 
 [class 07 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-07)
 
