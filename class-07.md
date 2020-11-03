@@ -39,13 +39,13 @@ Here's some tips to follow when building your own domain models.
 - The <table> element is used to create a table. The contents of the table are written out rowby row.
 
 - By typing <tr> You indicate the start of each row using the opening <tr> tag. (The tr stands for table row.) It is followed by one or more
-<td> elements (one for each cell in that row). At the end of the row you use a closing </tr> tag.
+ elements of <td> (one for each cell in that row). At the end of the row you use a closing </tr> tag.
 
-- <td> Each cell of a table is represented using a <td> element. (The td stands for table data.) At the end of each cell you use a closing </td> tag. Some browsers automatically draw lines around the table and/or the individual cells.
+- With <td> Each cell of a table is represented using a <td> element. (The td stands for table data.) At the end of each cell you use a closing </td> tag. Some browsers automatically draw lines around the table and/or the individual cells.
 
 - You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
 
-- For long tables you can split the table into a <thead>, <tbody>, and <tfoot>.
+- For long tables you can split the table into a <thead>, <tbody>, and <tfoot>. as necessary
 
 ### Functions, Methods, and Objects
 
