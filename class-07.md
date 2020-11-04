@@ -43,6 +43,8 @@ Here's some tips to follow when building your own domain models.
 
 - With <td> Each cell of a table is represented using a <td> element. (The td stands for table data.) At the end of each cell you use a closing </td> tag. Some browsers automatically draw lines around the table and/or the individual cells.
 
+- Using <th> elements for headings helps people who use screen readers, improves the ability for search engines to index your pages, and also enables you to control the appearance of tables better when you start to use CSS.
+
 - You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
 
 - For long tables you can split the table into a <thead>, <tbody>, and <tfoot>. as necessary
