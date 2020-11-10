@@ -5,7 +5,7 @@
 - I would like to thank
     1. James Gerstenberger 
         - who helped me on fixing issues on this page and
-    2. Rosalun Johnson 
+    2. Rosalyn Johnson 
         - for reviewing my job and commenting things that needs to be fixed 
 
 ## **Table of Contents**
@@ -32,7 +32,7 @@
 
 [class 11 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-11)
 
-[class 12 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-12)
+[class 12 reading](class-12.md)
 
 [class 13 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-13)
 
