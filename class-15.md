@@ -29,6 +29,6 @@
 
 
 
-[>> PREVIOUS (class 14 reading)](https://wondwosentsige.github.io/code-201-reading-notes/class-14)
+[>> PREVIOUS (class 14b reading)](https://wondwosentsige.github.io/code-201-reading-notes/class-14b)
 
 
