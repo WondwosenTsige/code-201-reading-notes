@@ -36,6 +36,8 @@
 
 [class 13 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-13)
 
-[class 14 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-14)
+[class 14a reading](https://wondwosentsige.github.io/code-201-reading-notes/class-14a)
+
+[class 14b reading](https://wondwosentsige.github.io/code-201-reading-notes/class-14b)
 
 [class 15 reading](https://wondwosentsige.github.io/code-201-reading-notes/class-15)
